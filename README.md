@@ -1,7 +1,7 @@
 # AppointmentApp
 This is the simple project to work with Angular
 
-
+![alt text](image.png)
 ## Development server
 
 To start a local development server, run:
